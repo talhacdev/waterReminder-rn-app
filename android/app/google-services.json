@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694853566247",
+    "project_id": "waterreminderlogicfab",
+    "storage_bucket": "waterreminderlogicfab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694853566247:android:12c5507ada1e19f199b302",
+        "android_client_info": {
+          "package_name": "com.waterreminderlogicfab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694853566247-3ovi39uhtddqtmu2g2eagqpfbafuumb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPppMhB9J7ic6yHgoTMGZZJ3X65UXLc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694853566247-3ovi39uhtddqtmu2g2eagqpfbafuumb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
